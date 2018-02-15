@@ -1,0 +1,2 @@
+class MentalHealthService < ApplicationRecord
+end

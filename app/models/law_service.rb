@@ -1,0 +1,2 @@
+class LawService < ApplicationRecord
+end

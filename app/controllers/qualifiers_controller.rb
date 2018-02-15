@@ -1,0 +1,2 @@
+class QualifiersController < ApplicationController
+end
